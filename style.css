@@ -1,0 +1,27 @@
+.center {
+  margin: 0 auto;
+  width 50%;
+  border: 3px ;
+  padding: 10px;
+}
+
+footer {
+  position: relative;
+  left: 100px;
+
+}
+div {
+  background-color: #ccccff;
+}
+
+#quote {
+  position: relative;
+  top: -5px;
+}
+#wikipedia {
+  position: relative;
+  top: -5px;
+}
+p {
+  font-size: 25px;
+}
